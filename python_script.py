@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print('Hello world!')
+print(f'Hello {input("What is your name? ")}!')
